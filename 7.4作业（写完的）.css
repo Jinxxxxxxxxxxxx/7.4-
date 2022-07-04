@@ -1,0 +1,44 @@
+#ls{
+	height: 1000px;
+	width: 800px;
+	margin: auto;
+	padding-left: 0px;
+}
+.a1{
+	border-style: solid;
+	border-color: rgb(242,243,245);
+	list-style-type: none;
+	height: 60px;
+	width: 800px;
+	border-width: 0.5px;
+}
+.p1{
+	font-size: 17px;
+	font-weight: bold;
+	color: rgb(255,102,0);
+	width: 80px;
+	text-align: center;
+	line-height: 20px;
+}
+.d1{
+	display: inline;
+	width: 80px;
+	position: relative;
+}
+.p2{
+	font-size: 17px;
+	position: relative;
+	top:-50px;
+	left: 80px;
+}
+.p3{
+	font-size: 15px;
+	color: rgb(130,130,130);
+}
+.p4{
+	position: relative;
+	top:-50px;
+	left: 80px;
+	font-size: 15px;
+	color: rgb(130,130,130);
+}
